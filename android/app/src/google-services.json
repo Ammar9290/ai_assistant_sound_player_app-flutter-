@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "366899745721",
+    "project_id": "ai-voice-assistant-mp",
+    "storage_bucket": "ai-voice-assistant-mp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366899745721:android:fbe13602eb3627c4d25c68",
+        "android_client_info": {
+          "package_name": "com.example.ai_voice_assistant_sound_player_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366899745721-naf7cr8k9c9nkse3boslkadv823jtr7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJfELULPoW8zRds6lJD715Yc8yucjmbkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366899745721-naf7cr8k9c9nkse3boslkadv823jtr7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
